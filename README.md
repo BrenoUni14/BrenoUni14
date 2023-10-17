@@ -17,7 +17,7 @@
 
 - 🛠 I’m currently learning about **Dockers & Firebase WebDevelopment**🥰<br>
 - 🌱 I’m looking to collaborate on: **Showing my skills to the open source world.**
-- ⚡ I’m looking for help with anything **I am currently learning! 😅**.
+- ⚡ I’m looking for help with anything **I am currently learning! AWS Cloud - Practitioner Level 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
 - ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
 
@@ -35,8 +35,8 @@
  
  <p align="left">
   <a href="https://www.linkedin.com/in//" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>&emsp;
-  <a title="brenoninjacarmo@gmail.com" href="mailto:abhishekpandey10082002@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>&emsp;
-  <a href="https://wa.me/960641538" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>&emsp;
+  <a title="brenoninjacarmo@gmail.com" href="mailto: brenoninjacarmo@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>&emsp;
+  <a href="https://wa.me/11960641538" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>&emsp;
 </p>
  
  
@@ -96,7 +96,7 @@
 
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{abhishekpandey108}/count.svg" alt="BrenoUni14 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{BrenoUni14}/count.svg" alt="BrenoUni14 :: Visitor's Count" /></p>
 
 <hr>
 
