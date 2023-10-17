@@ -49,7 +49,7 @@
   <a href="mailto:brenoninjacarmo@gmail.com">
     <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/mail.png?raw=true" width="32px"  />
   </a>
-  <a href="https://www.linkedin.com/in/abhishek-pandey-a167a5230/">
+  <a href="https://www.linkedin.com/in/BrenoUni14/">
     <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/1049140a71903d67104b4395ec1e24837ea2cece/Images/linked-in-alt.svg" width="28px" />
   </a>
  
