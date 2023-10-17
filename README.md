@@ -15,9 +15,9 @@
 
 <!-- - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br> -->
 
-- 🛠 I’m currently learning about **Dockers & Firebase WebDevelopment**🥰<br>
+- 🛠 I’m currently learning about **AWS Cloud - Practitioner Level**🥰<br>
 - 🌱 I’m looking to collaborate on: **Showing my skills to the open source world.**
-- ⚡ I’m looking for help with anything **I am currently learning! AWS Cloud - Practitioner Level 😅**.
+- ⚡ I’m looking for help with anything **I am currently learning!  😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
 - ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
 
