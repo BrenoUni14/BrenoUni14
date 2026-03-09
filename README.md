@@ -36,7 +36,6 @@
  <p align="left">
   <a href="https://www.linkedin.com/in//" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>&emsp;
   <a title="brenoninjacarmo@gmail.com" href="mailto: brenoninjacarmo@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>&emsp;
-  <a href="https://wa.me/11960641538" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>&emsp;
 </p>
  
  
