@@ -6,7 +6,7 @@
 
 
 
-<h3><samp><strong>I'm currently learning Full-Stack Web Development. I’m looking to collaborate projects. I like to design websites and solving problems that I face while creating it. </strong></samp></h3> 
+<h3><samp><strong>I'm currently learning Devops. I’m looking to collaborate projects. I like to design websites and solving problems that I face while creating it. </strong></samp></h3> 
 
 <hr>
 
@@ -15,11 +15,11 @@
 
 <!-- - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br> -->
 
-- 🛠 I’m currently learning about **AWS Cloud - Practitioner Level**🥰<br>
+- 🛠 I’m currently learning about **GCP**<br>
 - 🌱 I’m looking to collaborate on: **Showing my skills to the open source world.**
-- ⚡ I’m looking for help with anything **I am currently learning!  😅**.
+- ⚡ I’m looking for help with anything **I am currently learning!**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
-- ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
+- ✍️ Fun fact : **I Always try to learn something new and then sleep till it store in the brain** 😎<br>
 
 
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Just do it!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
